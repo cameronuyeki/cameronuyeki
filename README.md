@@ -3,7 +3,7 @@
 <h2>👨‍💻 Applied Math Assignments/Projects:</h2>
 
 - <b>Python</b>
-  - ["Math Modeling Assignments"]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/cameronuyeki/MathModelingAssignments))
+  - ["Math Modeling Assignments"](https://github.com/cameronuyeki/MathModelingAssignments))
   
 - <b>RStudio</b>
   - ["title rstudio section"](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
