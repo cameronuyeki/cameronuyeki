@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cameron!</h1>
 
-<h2>👨‍💻 Applied Math Assignments/Projects:</h2>
+<h2>👨‍💻 Applied Math Course Assignments/Projects:</h2>
 
 - <b>Python</b>
   - ["Math Modeling(Math 336)- Course Assignments"](https://github.com/cameronuyeki/MathModelingAssignments)
@@ -16,17 +16,8 @@
 
 [linkedin]: https://www.linkedin.com/in/cameron-uyeki-22007523a/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Other:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the Mortgage Consulting Project linked in "Math Modeling(Math 336)- Course Assignments" for my Math Modeling course due at the end of the semester.
+- 🌱 I’m currently learning SQL basics on a free online code camp during my free time and improving my skills in Python, along with my class's assignments/projects.
+- 📫 How to reach me: cameronuyeki@gmail.com
