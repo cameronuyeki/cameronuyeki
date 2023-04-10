@@ -3,11 +3,11 @@
 <h2>👨‍💻 Applied Math Assignments/Projects:</h2>
 
 - <b>Python</b>
-  - ["Math Modeling - Course Assignments"](https://github.com/cameronuyeki/MathModelingAssignments)
-  - ["Programming in Math - Course Assignments"](https://github.com/cameronuyeki/MathModelingAssignments)
+  - ["Math Modeling(Math 336)- Course Assignments"](https://github.com/cameronuyeki/MathModelingAssignments)
+  - ["Programming in Math(Math 340) - Course Assignments"](https://github.com/cameronuyeki/MathModelingAssignments)
   
 - <b>RStudio</b>
-  - ["Calculus III - Course Assignments "](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - ["Calculus III(Math 252) - Course Assignments "](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
