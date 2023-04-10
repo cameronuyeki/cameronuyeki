@@ -7,7 +7,7 @@
   - ["Programming in Math(Math 340) - Course Assignments"](https://github.com/cameronuyeki/ProgrammingInMathAssignments)
   
 - <b>RStudio</b>
-  - ["Calculus III(Math 252) - Course Assignments "](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - ["Calculus III(Math 252) - Course Assignments "](https://github.com/cameronuyeki/CalculusIIIAssignments)
 
 
 <h2> 🤳 Connect with me:</h2>
