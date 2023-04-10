@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - ["Math Modeling(Math 336)- Course Assignments"](https://github.com/cameronuyeki/MathModelingAssignments)
-  - ["Programming in Math(Math 340) - Course Assignments"](https://github.com/cameronuyeki/MathModelingAssignments)
+  - ["Programming in Math(Math 340) - Course Assignments"](https://github.com/cameronuyeki/ProgrammingInMathAssignments)
   
 - <b>RStudio</b>
   - ["Calculus III(Math 252) - Course Assignments "](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
